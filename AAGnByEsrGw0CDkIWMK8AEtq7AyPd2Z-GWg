@@ -1,3 +1,6 @@
-ola 
-boa tarde
-qual seu nomo
+//Escrever Hello, world no console
+console.writerLine("Hello, World!");
+
+int i;
+int i2 = i =10
+
